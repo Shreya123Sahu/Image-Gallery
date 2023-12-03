@@ -1,4 +1,6 @@
 # Image-Gallery
+
+
 "THE Lifestyle of Mumbai" is showcased in this image gallery using HTML and CSS
 
 ~AIM~:The aim of creating this mini-project is to create an Image gallery showcasing the LIFESTYLE OF MUMBAI.
